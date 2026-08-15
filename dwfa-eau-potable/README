@@ -1,0 +1,17 @@
+# Accès à l'eau potable — DWFA
+
+## Objectif
+
+Aider une ONG à cibler les investissements prioritaires pour améliorer l'accès à l'eau potable, à partir de 6 sources de données internationales (OMS, Banque Mondiale, FAO).
+
+## Démarche
+
+Pipeline de nettoyage en 3 étapes (données brutes → nettoyées → prêtes pour restitution), avec harmonisation des référentiels géographiques entre sources hétérogènes. Construction d'un score d'efficacité gouvernementale. Modélisation en étoile pour un tableau de bord interactif à 3 niveaux de lecture (monde, continent, pays), avec filtres dynamiques et cartographie.
+
+## Compétences
+
+Nettoyage et harmonisation de données multi-sources · Modélisation de données (schéma en étoile) · Création d'indicateurs métier · Data visualisation interactive
+
+**Résultat clé** : tableau de bord opérationnel à 3 niveaux, couvrant jusqu'à 219 pays
+
+**Stack** : Power BI, DAX, Python
